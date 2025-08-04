@@ -1,2 +1,2 @@
 # MyRepository
-My First Ever Reposotory
+My First Ever Repository
